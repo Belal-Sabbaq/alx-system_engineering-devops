@@ -1,2 +1,2 @@
 #!/bin/bash
-head -12 < ls -tl 
+head < ls -tl 
